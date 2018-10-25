@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri":"mysql+pymysql://root:@localhost/blog adda",
+    "prod_uri":"mysql+pymysql://root:@localhost/blog adda",
+    "fb_url":"https://www.facebook.com/blog adda",
+    "tw_url":"https://www.twitter.com/blog adda",
+    "git_url":"https://www.github.com/blog adda",
+    "insta_url":"https://www.instagram.com/blog adda",
+    "blog_name":"Blog Adda",
+    "btagline":"A Blog-site liked by everyone",
+    "no_of_posts":2,
+    "login_image":"login.png",
+    "admin_user":"shree",
+    "admin_password":"shivam",
+    "upload_location":"C:\\Users\\shiva_000\\PycharmProjects\\flask.tut\\static\\img"
+  }
+
+}
